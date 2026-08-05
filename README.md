@@ -82,7 +82,3 @@ Este proyecto **no utiliza base de datos ni Table API**: es un sitio estático i
 - Si se desea un mapa interactivo real (no ilustrativo), se podría integrar un mapa embebido de Google Maps o Mapbox mostrando ubicaciones exactas de oficinas/cobertura.
 - Añadir integración con Google Analytics o similar para medir conversiones del formulario.
 - Considerar agregar una sección de certificaciones/alianzas si la empresa cuenta con ellas.
-
-## Cómo publicar
-
-Para hacer público este sitio, usa la pestaña **Publish** del panel del proyecto. Esa pestaña se encarga de todo el proceso de despliegue y te entrega la URL pública final.
